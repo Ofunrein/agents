@@ -14,15 +14,6 @@ This repo is a living library of reusable AI building blocks:
 | **MCP Files** | Model Context Protocol definitions for tool and resource access |
 | **Workflows** | Step-by-step workflow files for repeatable processes |
 
-## Structure
-
-```
-agents/
-├── README.md
-├── GEMINI.md          # Cinematic landing page builder agent config
-└── ...                # More prompts, skills, and configs coming
-```
-
 ## Philosophy
 
 > The best prompt is one you never have to write twice.
